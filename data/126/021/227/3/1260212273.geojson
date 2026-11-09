@@ -87,7 +87,7 @@
         "wk:page":"Aguni%2C_Okinawa"
     },
     "wof:country":"JP",
-    "wof:geomhash":"07d5fab0f0e867e287c5844c954d8e52",
+    "wof:geomhash":"5808e2fc550f0815d871283d7c89c50a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,5 +113,5 @@
     127.2291,
     26.58317000000001
 ],
-  "geometry": {"coordinates":[127.2291,26.58317000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.2291,26.58317],"type":"Point"}
 }

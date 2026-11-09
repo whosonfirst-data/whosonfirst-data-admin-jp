@@ -49,7 +49,7 @@
         "wk:page":"Momoishi%2C_Aomori"
     },
     "wof:country":"JP",
-    "wof:geomhash":"ad3b72fbd1e48e2936d26cd0893618e9",
+    "wof:geomhash":"930c05d2d4bbf715954fa66baad92306",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     141.43361000000004,
     40.59028
 ],
-  "geometry": {"coordinates":[141.43361000000004,40.59028],"type":"Point"}
+  "geometry": {"coordinates":[141.43361,40.59028],"type":"Point"}
 }

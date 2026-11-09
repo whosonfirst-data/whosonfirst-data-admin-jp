@@ -58,7 +58,7 @@
         "wk:page":"Iwamuro%2C_Niigata"
     },
     "wof:country":"JP",
-    "wof:geomhash":"926a69df2f16c71e52899988cfeda8d3",
+    "wof:geomhash":"34d93e6bdc3d7fa43917b0b52c047288",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     138.83733999999998,
     37.73696
 ],
-  "geometry": {"coordinates":[138.83733999999998,37.73696],"type":"Point"}
+  "geometry": {"coordinates":[138.83734,37.73696],"type":"Point"}
 }

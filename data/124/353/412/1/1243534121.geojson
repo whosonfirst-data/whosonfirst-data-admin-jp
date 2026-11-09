@@ -95,7 +95,7 @@
         "wk:page":"Enbetsu%2C_Hokkaido"
     },
     "wof:country":"JP",
-    "wof:geomhash":"8640561acc7b9bfcbbfbf2222e42445c",
+    "wof:geomhash":"761dcf37000b6c79c566d05e23035a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,5 +121,5 @@
     141.78888999999995,
     44.70722
 ],
-  "geometry": {"coordinates":[141.78888999999995,44.70722],"type":"Point"}
+  "geometry": {"coordinates":[141.78889,44.70722],"type":"Point"}
 }

@@ -142,7 +142,7 @@
         "wk:page":"Kasuga%2C_Fukuoka"
     },
     "wof:country":"JP",
-    "wof:geomhash":"6d012154448d2c6eaba5806ff57be328",
+    "wof:geomhash":"504100a686b53158d3bdcc38102d07f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,5 +168,5 @@
     130.4611,
     33.52594000000001
 ],
-  "geometry": {"coordinates":[130.46109999999999,33.52594000000001],"type":"Point"}
+  "geometry": {"coordinates":[130.4611,33.52594],"type":"Point"}
 }

@@ -127,7 +127,7 @@
         "wk:page":"Kaga%2C_Ishikawa"
     },
     "wof:country":"JP",
-    "wof:geomhash":"4f678d5c0a1558b225051bd2cfc1aab9",
+    "wof:geomhash":"74c6f27fa4a5c7263fcccca92065380f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,5 +153,5 @@
     136.33333000000002,
     36.3
 ],
-  "geometry": {"coordinates":[136.33333000000002,36.3],"type":"Point"}
+  "geometry": {"coordinates":[136.33333,36.3],"type":"Point"}
 }

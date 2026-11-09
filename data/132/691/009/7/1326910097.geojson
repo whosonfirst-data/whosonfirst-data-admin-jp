@@ -67,7 +67,7 @@
         "wk:page":"Maruseppu,_Hokkaido"
     },
     "wof:country":"JP",
-    "wof:geomhash":"153fcb2d3a949767dbcb65f6035996be",
+    "wof:geomhash":"80c9371c566e934497e2a95553d8c54d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     143.32981999999996,
     43.99765
 ],
-  "geometry": {"coordinates":[143.32981999999996,43.99765],"type":"Point"}
+  "geometry": {"coordinates":[143.32982,43.99765],"type":"Point"}
 }

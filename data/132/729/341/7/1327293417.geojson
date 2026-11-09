@@ -74,7 +74,7 @@
         "wk:page":"Umeda"
     },
     "wof:country":"JP",
-    "wof:geomhash":"66222c475d2e3d39422807bc117fafb4",
+    "wof:geomhash":"3ff174e0eb1c77b464f1e926c3326ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     135.49778,
     34.70274000000001
 ],
-  "geometry": {"coordinates":[135.49778000000001,34.70274000000001],"type":"Point"}
+  "geometry": {"coordinates":[135.49778,34.70274],"type":"Point"}
 }

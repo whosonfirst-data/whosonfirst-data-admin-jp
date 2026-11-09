@@ -125,7 +125,7 @@
     },
     "wof:country":"JP",
     "wof:created":1469056816,
-    "wof:geomhash":"4d7760a887c0a43db00541ace53efe37",
+    "wof:geomhash":"ca73e8ad7f5709bc2df56fb451fb3691",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,5 +153,5 @@
     123.0,
     24.46667
 ],
-  "geometry": {"coordinates":[123.0,24.46667],"type":"Point"}
+  "geometry": {"coordinates":[123,24.46667],"type":"Point"}
 }

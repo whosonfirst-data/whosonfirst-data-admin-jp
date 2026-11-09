@@ -130,7 +130,7 @@
         "wk:page":"Ninohe%2C_Iwate"
     },
     "wof:country":"JP",
-    "wof:geomhash":"a2e10828263912a813b7406c18980360",
+    "wof:geomhash":"10c1e7c77aae21ec59ddf6d55dcc730d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,5 +156,5 @@
     141.31333999999995,
     40.29081
 ],
-  "geometry": {"coordinates":[141.31333999999995,40.29081],"type":"Point"}
+  "geometry": {"coordinates":[141.31334,40.29081],"type":"Point"}
 }

@@ -140,7 +140,7 @@
         "wk:page":"Hokuto,_Yamanashi"
     },
     "wof:country":"JP",
-    "wof:geomhash":"505ba21b4b08579e82b97e6731d6ae78",
+    "wof:geomhash":"68d48e0e7e98a7671d1ecfaef85f65fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,5 +168,5 @@
     138.39606,
     35.83457999999999
 ],
-  "geometry": {"coordinates":[138.39606000000001,35.83457999999999],"type":"Point"}
+  "geometry": {"coordinates":[138.39606,35.83458],"type":"Point"}
 }

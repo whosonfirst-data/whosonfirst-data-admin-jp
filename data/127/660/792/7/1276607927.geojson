@@ -46,7 +46,7 @@
         "wk:page":"Togari_%28Japan%29"
     },
     "wof:country":"JP",
-    "wof:geomhash":"ade880e6d31a8c60e9f51e75b0336ccd",
+    "wof:geomhash":"e2b3c4b6985aeef9f4717f9542e16664",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     138.38956000000002,
     36.91539
 ],
-  "geometry": {"coordinates":[138.38956000000002,36.91539],"type":"Point"}
+  "geometry": {"coordinates":[138.38956,36.91539],"type":"Point"}
 }

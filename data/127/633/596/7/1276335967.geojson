@@ -97,7 +97,7 @@
         "wk:page":"%C5%8Cwani%2C_Aomori"
     },
     "wof:country":"JP",
-    "wof:geomhash":"02b9f5a02fcd436ad0f911e2ed4213bb",
+    "wof:geomhash":"af1ad644aa45a5c42a3f642f982ca254",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,5 +123,5 @@
     140.56871999999998,
     40.5197
 ],
-  "geometry": {"coordinates":[140.56871999999998,40.5197],"type":"Point"}
+  "geometry": {"coordinates":[140.56872,40.5197],"type":"Point"}
 }

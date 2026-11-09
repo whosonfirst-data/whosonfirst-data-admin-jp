@@ -56,7 +56,7 @@
         "wk:page":"Kanita%2C_Aomori"
     },
     "wof:country":"JP",
-    "wof:geomhash":"ac5b61ba143b1f85a4afd3e311d0810a",
+    "wof:geomhash":"6d449e1069225d38e4f7f5ea1ab600c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     140.64356999999998,
     41.04225
 ],
-  "geometry": {"coordinates":[140.64356999999998,41.04225],"type":"Point"}
+  "geometry": {"coordinates":[140.64357,41.04225],"type":"Point"}
 }

@@ -148,7 +148,7 @@
         "wk:page":"Oga%2C_Akita"
     },
     "wof:country":"JP",
-    "wof:geomhash":"99e93322ae4d890306fe5701324cb066",
+    "wof:geomhash":"fd8a2bfcec8599a445608d26122c6791",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -174,5 +174,5 @@
     139.84926000000002,
     39.871
 ],
-  "geometry": {"coordinates":[139.84926000000002,39.871],"type":"Point"}
+  "geometry": {"coordinates":[139.84926,39.871],"type":"Point"}
 }

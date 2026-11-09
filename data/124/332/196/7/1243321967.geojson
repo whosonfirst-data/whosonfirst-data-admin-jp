@@ -62,7 +62,7 @@
         "wk:page":"Kaj%C5%AB-ji"
     },
     "wof:country":"JP",
-    "wof:geomhash":"e94ac326fa2a105832f12a7aa4f69119",
+    "wof:geomhash":"aebcdc02ecbbb23701b9b796d31b310c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     135.80886999999998,
     34.96117
 ],
-  "geometry": {"coordinates":[135.80886999999998,34.96117],"type":"Point"}
+  "geometry": {"coordinates":[135.80887,34.96117],"type":"Point"}
 }

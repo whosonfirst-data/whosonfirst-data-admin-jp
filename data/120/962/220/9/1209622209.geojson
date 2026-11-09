@@ -50,7 +50,7 @@
         "wk:page":"%C5%8Chata%2C_Aomori"
     },
     "wof:country":"JP",
-    "wof:geomhash":"4666ca7d1679a014da55aef91affa803",
+    "wof:geomhash":"0afafaac3bc6e0f4d80d77671dbf993b",
     "wof:hierarchy":[
         {
             "country_id":85632429,
@@ -73,5 +73,5 @@
     141.16478999999995,
     41.40349000000001
 ],
-  "geometry": {"coordinates":[141.16478999999995,41.40349000000001],"type":"Point"}
+  "geometry": {"coordinates":[141.16479,41.40349],"type":"Point"}
 }

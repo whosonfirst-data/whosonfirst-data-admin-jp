@@ -80,7 +80,7 @@
         "wk:page":"Miyako%2C_Fukuoka"
     },
     "wof:country":"JP",
-    "wof:geomhash":"f19ceec2e380bb5469b15f429549c322",
+    "wof:geomhash":"f6299f0cf8f8635da3a7ab106a5a7596",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,5 +106,5 @@
     130.92006999999998,
     33.6992
 ],
-  "geometry": {"coordinates":[130.92006999999998,33.6992],"type":"Point"}
+  "geometry": {"coordinates":[130.92007,33.6992],"type":"Point"}
 }

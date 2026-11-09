@@ -52,7 +52,7 @@
         "wk:page":"Iino%2C_Fukushima"
     },
     "wof:country":"JP",
-    "wof:geomhash":"9444df6581498324d4a7d24ba163d13a",
+    "wof:geomhash":"47ccbc657b07bcf6145494820e7c0fae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     140.53728999999998,
     37.65284000000001
 ],
-  "geometry": {"coordinates":[140.53728999999998,37.65284000000001],"type":"Point"}
+  "geometry": {"coordinates":[140.53729,37.65284],"type":"Point"}
 }

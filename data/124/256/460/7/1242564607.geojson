@@ -89,7 +89,7 @@
         "wk:page":"Urahoro%2C_Hokkaido"
     },
     "wof:country":"JP",
-    "wof:geomhash":"b0a61e5bcfd8d82efe5dd37a217eb35c",
+    "wof:geomhash":"c7c28dfc4d4e3416da5925d78e256e2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,5 +115,5 @@
     143.65348999999995,
     42.81094
 ],
-  "geometry": {"coordinates":[143.65348999999995,42.81094],"type":"Point"}
+  "geometry": {"coordinates":[143.65349,42.81094],"type":"Point"}
 }

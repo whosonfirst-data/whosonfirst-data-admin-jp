@@ -50,7 +50,7 @@
         "wk:page":"Noborito"
     },
     "wof:country":"JP",
-    "wof:geomhash":"61893339b591080d6f09c7a952f4f699",
+    "wof:geomhash":"49b982000d973882cc55a6ab622302a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     139.56051000000002,
     35.62203
 ],
-  "geometry": {"coordinates":[139.56051000000002,35.62203],"type":"Point"}
+  "geometry": {"coordinates":[139.56051,35.62203],"type":"Point"}
 }

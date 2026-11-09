@@ -47,7 +47,7 @@
         "wk:page":"Sengokuhara"
     },
     "wof:country":"JP",
-    "wof:geomhash":"8cb3b203867fc98db721a84a8e92d241",
+    "wof:geomhash":"642a2338d99846e8dacc32e9a3bf5ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     139.01027,
     35.27674000000001
 ],
-  "geometry": {"coordinates":[139.01026999999999,35.27674000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.01027,35.27674],"type":"Point"}
 }

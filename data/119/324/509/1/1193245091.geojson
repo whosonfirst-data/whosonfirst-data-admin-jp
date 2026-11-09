@@ -139,7 +139,7 @@
         "wk:page":"Matsuura%2C_Nagasaki"
     },
     "wof:country":"JP",
-    "wof:geomhash":"02034c4e6305a9b28b439083a952c662",
+    "wof:geomhash":"4acf0bc66e67a9294d35dd255387db7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,5 +165,5 @@
     129.69503999999998,
     33.34058
 ],
-  "geometry": {"coordinates":[129.69503999999998,33.34058],"type":"Point"}
+  "geometry": {"coordinates":[129.69504,33.34058],"type":"Point"}
 }

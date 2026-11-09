@@ -50,7 +50,7 @@
         "wk:page":"Sarugakuch%C5%8D%2C_Chiyoda%2C_Tokyo"
     },
     "wof:country":"JP",
-    "wof:geomhash":"400e4705420e010ab67f03af423a0cde",
+    "wof:geomhash":"cde808b50a42fd29ee86fe1d18553364",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     139.75948,
     35.69949000000001
 ],
-  "geometry": {"coordinates":[139.75948,35.69949000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.75948,35.69949],"type":"Point"}
 }

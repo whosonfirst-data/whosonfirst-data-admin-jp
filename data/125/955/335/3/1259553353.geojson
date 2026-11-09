@@ -131,7 +131,7 @@
         "wk:page":"Nomi%2C_Ishikawa"
     },
     "wof:country":"JP",
-    "wof:geomhash":"c8c30b9c21a8c166a2a7739b75d7c87e",
+    "wof:geomhash":"b583ad50b1d9e7a516d317b8a38f050e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -157,5 +157,5 @@
     136.48468,
     36.40969000000001
 ],
-  "geometry": {"coordinates":[136.48468,36.40969000000001],"type":"Point"}
+  "geometry": {"coordinates":[136.48468,36.40969],"type":"Point"}
 }

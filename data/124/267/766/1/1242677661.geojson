@@ -148,7 +148,7 @@
         "wk:page":"Sanmu"
     },
     "wof:country":"JP",
-    "wof:geomhash":"4cc2e2ded35cf0fb6d3cc3f042409c2a",
+    "wof:geomhash":"f3f939ed58d9fc596d4cd0240715843e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -174,5 +174,5 @@
     140.41762,
     35.62755999999999
 ],
-  "geometry": {"coordinates":[140.41762,35.62755999999999],"type":"Point"}
+  "geometry": {"coordinates":[140.41762,35.62756],"type":"Point"}
 }

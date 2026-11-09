@@ -51,7 +51,7 @@
         "wk:page":"Tamatsukuri%2C_Ibaraki"
     },
     "wof:country":"JP",
-    "wof:geomhash":"b46624d5288fd915f170a586598004b6",
+    "wof:geomhash":"a7e7f690a1c63903aad0c686c0d1d3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     140.41666999999998,
     36.1
 ],
-  "geometry": {"coordinates":[140.41666999999998,36.1],"type":"Point"}
+  "geometry": {"coordinates":[140.41667,36.1],"type":"Point"}
 }

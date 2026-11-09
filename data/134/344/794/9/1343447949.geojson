@@ -94,7 +94,7 @@
         "wk:page":"Saroma%2C_Hokkaido"
     },
     "wof:country":"JP",
-    "wof:geomhash":"8518f244b81898a66d7455b8474f38a6",
+    "wof:geomhash":"04cc7aa118b06fb1b7d33dab8901baa2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,5 +120,5 @@
     143.77444,
     44.00944000000001
 ],
-  "geometry": {"coordinates":[143.77444,44.00944000000001],"type":"Point"}
+  "geometry": {"coordinates":[143.77444,44.00944],"type":"Point"}
 }

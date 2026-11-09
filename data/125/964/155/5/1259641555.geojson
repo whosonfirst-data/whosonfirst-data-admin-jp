@@ -50,7 +50,7 @@
         "wk:page":"Udono%2C_Mie"
     },
     "wof:country":"JP",
-    "wof:geomhash":"33d3518cd4f8221d649a4f73d656f58d",
+    "wof:geomhash":"c4f7aa5db8cf0d821f2f8241e8e3205b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     136.01113,
     33.73699999999999
 ],
-  "geometry": {"coordinates":[136.01113000000001,33.73699999999999],"type":"Point"}
+  "geometry": {"coordinates":[136.01113,33.737],"type":"Point"}
 }

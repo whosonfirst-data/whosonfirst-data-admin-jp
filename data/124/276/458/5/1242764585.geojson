@@ -60,7 +60,7 @@
         "wk:page":"Shimokawa%2C_Hokkaid%C5%8D"
     },
     "wof:country":"JP",
-    "wof:geomhash":"2fefa18d3c73993e5b6afe895969b1b4",
+    "wof:geomhash":"d26958b7c10b29b18a4f442a850e0ea0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     142.67738,
     44.24489000000001
 ],
-  "geometry": {"coordinates":[142.67738,44.24489000000001],"type":"Point"}
+  "geometry": {"coordinates":[142.67738,44.24489],"type":"Point"}
 }

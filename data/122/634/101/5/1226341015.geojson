@@ -49,7 +49,7 @@
         "wk:page":"Nakajima%2C_Ehime"
     },
     "wof:country":"JP",
-    "wof:geomhash":"510a70c4b38efb41dafe04574e5627c9",
+    "wof:geomhash":"ebffea07be64a61ff1d064f3d4b1d629",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     132.62811000000002,
     33.97369
 ],
-  "geometry": {"coordinates":[132.62811000000002,33.97369],"type":"Point"}
+  "geometry": {"coordinates":[132.62811,33.97369],"type":"Point"}
 }

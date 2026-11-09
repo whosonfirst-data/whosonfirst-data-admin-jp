@@ -55,7 +55,7 @@
         "wk:page":"Inba%2C_Chiba"
     },
     "wof:country":"JP",
-    "wof:geomhash":"3a9e27554ca49e04565af1a2c275de5d",
+    "wof:geomhash":"cc1d3e02a78158947e43d9be88530962",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     140.2022,
     35.77549000000001
 ],
-  "geometry": {"coordinates":[140.2022,35.77549000000001],"type":"Point"}
+  "geometry": {"coordinates":[140.2022,35.77549],"type":"Point"}
 }

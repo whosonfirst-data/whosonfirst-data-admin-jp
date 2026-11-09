@@ -77,7 +77,7 @@
         "wk:page":"D%C5%8Dtonbori"
     },
     "wof:country":"JP",
-    "wof:geomhash":"d21b4ede3449907246d96664e89fd68a",
+    "wof:geomhash":"37a0af4a005d72a5d1c32352e85ceb92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     135.50623000000002,
     34.66533
 ],
-  "geometry": {"coordinates":[135.50623000000002,34.66533],"type":"Point"}
+  "geometry": {"coordinates":[135.50623,34.66533],"type":"Point"}
 }

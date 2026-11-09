@@ -51,7 +51,7 @@
         "wk:page":"Mikawa%2C_Ehime"
     },
     "wof:country":"JP",
-    "wof:geomhash":"0012084aa9c07e8568e2326e57a0bfa6",
+    "wof:geomhash":"13c2c804c43b055221f1f4336a8f64c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     132.97238000000002,
     33.61533
 ],
-  "geometry": {"coordinates":[132.97238000000002,33.61533],"type":"Point"}
+  "geometry": {"coordinates":[132.97238,33.61533],"type":"Point"}
 }

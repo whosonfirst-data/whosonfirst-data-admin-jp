@@ -50,7 +50,7 @@
         "wk:page":"Kanose%2C_Niigata"
     },
     "wof:country":"JP",
-    "wof:geomhash":"ebc9c6d035bed1df1ba8a268ec1af8b8",
+    "wof:geomhash":"028996ad32a163fea3cd92e946e0fd56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     139.47478999999998,
     37.68955
 ],
-  "geometry": {"coordinates":[139.47478999999998,37.68955],"type":"Point"}
+  "geometry": {"coordinates":[139.47479,37.68955],"type":"Point"}
 }

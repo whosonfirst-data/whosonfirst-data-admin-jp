@@ -167,7 +167,7 @@
         "wk:page":"Aisai"
     },
     "wof:country":"JP",
-    "wof:geomhash":"232bc43061cfbc04a1b0965274cfd3d7",
+    "wof:geomhash":"7aa82fbdc8117716633a75e5f9418138",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -193,5 +193,5 @@
     136.73221999999998,
     35.16349
 ],
-  "geometry": {"coordinates":[136.73221999999998,35.16349],"type":"Point"}
+  "geometry": {"coordinates":[136.73222,35.16349],"type":"Point"}
 }

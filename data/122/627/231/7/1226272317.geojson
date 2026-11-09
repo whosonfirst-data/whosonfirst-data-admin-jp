@@ -55,7 +55,7 @@
         "wk:page":"Miyauchi%2C_Yamagata"
     },
     "wof:country":"JP",
-    "wof:geomhash":"2d3386162c145cade002083657aecf1e",
+    "wof:geomhash":"0e95bccda52997da36c43d8ffb4176d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     140.13693999999998,
     38.07139
 ],
-  "geometry": {"coordinates":[140.13693999999998,38.07139],"type":"Point"}
+  "geometry": {"coordinates":[140.13694,38.07139],"type":"Point"}
 }

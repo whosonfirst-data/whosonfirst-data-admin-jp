@@ -84,7 +84,7 @@
         "wk:page":"Hokury%C5%AB%2C_Hokkaido"
     },
     "wof:country":"JP",
-    "wof:geomhash":"322a5a2f86a9b5f82c90d0dfa908dfc1",
+    "wof:geomhash":"655ae7032e3c26243c04888bb1777238",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,5 +110,5 @@
     141.91666999999995,
     43.78333
 ],
-  "geometry": {"coordinates":[141.91666999999995,43.78333],"type":"Point"}
+  "geometry": {"coordinates":[141.91667,43.78333],"type":"Point"}
 }

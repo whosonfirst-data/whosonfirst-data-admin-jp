@@ -53,7 +53,7 @@
         "wk:page":"Atsumi%2C_Yamagata"
     },
     "wof:country":"JP",
-    "wof:geomhash":"5054bfb8dbc4f7f6b2d40a612ad42b08",
+    "wof:geomhash":"8cf910c7c77ab262196070d6aaddf7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     139.58936,
     38.62732000000001
 ],
-  "geometry": {"coordinates":[139.58936,38.62732000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.58936,38.62732],"type":"Point"}
 }

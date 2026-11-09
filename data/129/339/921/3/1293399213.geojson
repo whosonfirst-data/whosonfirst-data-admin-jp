@@ -169,7 +169,7 @@
         "wk:page":"Kiyosu"
     },
     "wof:country":"JP",
-    "wof:geomhash":"473d6825c4e645a60402c595c866891d",
+    "wof:geomhash":"ab5580ceb918726a1e9b5b73470ae255",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,5 +195,5 @@
     136.83333000000002,
     35.21667
 ],
-  "geometry": {"coordinates":[136.83333000000002,35.21667],"type":"Point"}
+  "geometry": {"coordinates":[136.83333,35.21667],"type":"Point"}
 }

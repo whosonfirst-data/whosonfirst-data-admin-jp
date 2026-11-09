@@ -82,7 +82,7 @@
         "wk:page":"Marunouchi"
     },
     "wof:country":"JP",
-    "wof:geomhash":"527d1b1772dddc3ca376fefb65deeb78",
+    "wof:geomhash":"1315bc48330ec13f21ac37d3cbcc95a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,5 +108,5 @@
     139.76328,
     35.68145999999999
 ],
-  "geometry": {"coordinates":[139.76328000000001,35.68145999999999],"type":"Point"}
+  "geometry": {"coordinates":[139.76328,35.68146],"type":"Point"}
 }

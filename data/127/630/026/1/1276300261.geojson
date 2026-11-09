@@ -61,7 +61,7 @@
         "wk:page":"Ogatsu%2C_Miyagi"
     },
     "wof:country":"JP",
-    "wof:geomhash":"da939e75cc6e873872ccbe218f2a8393",
+    "wof:geomhash":"636a2775bc5587779f8557a168da81c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     141.46586000000005,
     38.51793
 ],
-  "geometry": {"coordinates":[141.46586000000005,38.51793],"type":"Point"}
+  "geometry": {"coordinates":[141.46586,38.51793],"type":"Point"}
 }

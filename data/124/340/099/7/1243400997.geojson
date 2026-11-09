@@ -69,7 +69,7 @@
         "wk:page":"Kawaguchi%2C_Niigata"
     },
     "wof:country":"JP",
-    "wof:geomhash":"23d21dc5fba705921bd52f5f83607984",
+    "wof:geomhash":"2a4fc097252ed7189dc68c727a5fc39c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     138.87053999999998,
     37.26402
 ],
-  "geometry": {"coordinates":[138.87053999999998,37.26402],"type":"Point"}
+  "geometry": {"coordinates":[138.87054,37.26402],"type":"Point"}
 }

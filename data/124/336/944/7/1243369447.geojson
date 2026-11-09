@@ -49,7 +49,7 @@
         "gn:id":11139554
     },
     "wof:country":"JP",
-    "wof:geomhash":"59e00df2bd333682e7733ee44e199a9d",
+    "wof:geomhash":"a730046db4373dcad71fb76d784beea8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     140.19208999999998,
     35.32032
 ],
-  "geometry": {"coordinates":[140.19208999999998,35.32032],"type":"Point"}
+  "geometry": {"coordinates":[140.19209,35.32032],"type":"Point"}
 }

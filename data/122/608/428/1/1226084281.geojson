@@ -85,7 +85,7 @@
         "wk:page":"Ueno"
     },
     "wof:country":"JP",
-    "wof:geomhash":"9486b0c8e6cad031a21cc0c204e8a64a",
+    "wof:geomhash":"4fd80c13a8c15f295f7acbb3be3c95ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,5 +111,5 @@
     139.77416000000002,
     35.70896
 ],
-  "geometry": {"coordinates":[139.77416000000002,35.70896],"type":"Point"}
+  "geometry": {"coordinates":[139.77416,35.70896],"type":"Point"}
 }

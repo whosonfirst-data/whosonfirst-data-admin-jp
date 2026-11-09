@@ -130,7 +130,7 @@
         "wk:page":"S%C5%8Dma%2C_Fukushima"
     },
     "wof:country":"JP",
-    "wof:geomhash":"dbfd0efaf163c04404f97e957d8ed799",
+    "wof:geomhash":"b300fadc49a6a6200d78980b109da372",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,5 +156,5 @@
     140.92941000000005,
     37.79283
 ],
-  "geometry": {"coordinates":[140.92941000000005,37.79283],"type":"Point"}
+  "geometry": {"coordinates":[140.92941,37.79283],"type":"Point"}
 }

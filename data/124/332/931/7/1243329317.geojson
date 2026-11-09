@@ -83,7 +83,7 @@
         "wk:page":"Yamato%2C_Kagoshima"
     },
     "wof:country":"JP",
-    "wof:geomhash":"e9fb4e7453a9b28401ab55bb96870b19",
+    "wof:geomhash":"5bede6d9dd94aec87cc9867b4fb7ca70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,5 +109,5 @@
     129.39413000000002,
     28.36077
 ],
-  "geometry": {"coordinates":[129.39413000000002,28.36077],"type":"Point"}
+  "geometry": {"coordinates":[129.39413,28.36077],"type":"Point"}
 }

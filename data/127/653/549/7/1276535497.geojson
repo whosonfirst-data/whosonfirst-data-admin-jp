@@ -54,7 +54,7 @@
         "wk:page":"Shibetsu%2C_Hokkaid%C5%8D"
     },
     "wof:country":"JP",
-    "wof:geomhash":"b0bfa20bd9063be339c4db55d1dd61de",
+    "wof:geomhash":"bd0b221fb0f1667ca46cef2225837efa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     142.37306999999996,
     44.15399
 ],
-  "geometry": {"coordinates":[142.37306999999996,44.15399],"type":"Point"}
+  "geometry": {"coordinates":[142.37307,44.15399],"type":"Point"}
 }

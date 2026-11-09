@@ -58,7 +58,7 @@
         "wk:page":"Ninoshima"
     },
     "wof:country":"JP",
-    "wof:geomhash":"4c06387a7a9c2a908a8601c6845ea14b",
+    "wof:geomhash":"cf02f169761b52c862c7c980cb9d5478",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     132.43778999999998,
     34.31351
 ],
-  "geometry": {"coordinates":[132.43778999999998,34.31351],"type":"Point"}
+  "geometry": {"coordinates":[132.43779,34.31351],"type":"Point"}
 }

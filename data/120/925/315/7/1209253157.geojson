@@ -136,7 +136,7 @@
         "wk:page":"Nasukarasuyama"
     },
     "wof:country":"JP",
-    "wof:geomhash":"facbcabb9f93301b320cc1ace88c2f41",
+    "wof:geomhash":"213d5e0627dfcc44df12792335669333",
     "wof:hierarchy":[
         {
             "country_id":85632429,
@@ -159,5 +159,5 @@
     140.16083999999998,
     36.65233
 ],
-  "geometry": {"coordinates":[140.16083999999998,36.65233],"type":"Point"}
+  "geometry": {"coordinates":[140.16084,36.65233],"type":"Point"}
 }

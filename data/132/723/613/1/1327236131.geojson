@@ -49,7 +49,7 @@
         "wk:page":"Honai%2C_Ehime"
     },
     "wof:country":"JP",
-    "wof:geomhash":"bd2a375743c144aaa56f3c075c76bdb2",
+    "wof:geomhash":"0028b979fd37935d2b9472e942184ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     132.40156000000002,
     33.48629
 ],
-  "geometry": {"coordinates":[132.40156000000002,33.48629],"type":"Point"}
+  "geometry": {"coordinates":[132.40156,33.48629],"type":"Point"}
 }

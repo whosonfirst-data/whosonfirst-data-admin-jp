@@ -62,7 +62,7 @@
         "wk:page":"Ry%C5%8Dgoku"
     },
     "wof:country":"JP",
-    "wof:geomhash":"e9eb747f9902bb8b5db05957b256eeb2",
+    "wof:geomhash":"71263ae4374d5e5525882e21836f4128",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     139.78628,
     35.69322000000001
 ],
-  "geometry": {"coordinates":[139.78628,35.69322000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.78628,35.69322],"type":"Point"}
 }

@@ -83,7 +83,7 @@
         "wk:page":"Kamig%C5%8Dri%2C_Hy%C5%8Dgo"
     },
     "wof:country":"JP",
-    "wof:geomhash":"11154536015bf238493e5f1987cb17de",
+    "wof:geomhash":"ffa13a45a44cb78be6603676c52b3367",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,5 +109,5 @@
     134.36191000000002,
     34.8748
 ],
-  "geometry": {"coordinates":[134.36191000000002,34.8748],"type":"Point"}
+  "geometry": {"coordinates":[134.36191,34.8748],"type":"Point"}
 }

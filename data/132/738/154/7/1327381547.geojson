@@ -56,7 +56,7 @@
         "wk:page":"Takashima%2C_Nagasaki_%28Nishisonogi%29"
     },
     "wof:country":"JP",
-    "wof:geomhash":"13377361c3215894cb55c27de87ccf57",
+    "wof:geomhash":"e003a625f32e17c6a47ad3e9767667a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     129.75346000000002,
     32.6579
 ],
-  "geometry": {"coordinates":[129.75346000000002,32.6579],"type":"Point"}
+  "geometry": {"coordinates":[129.75346,32.6579],"type":"Point"}
 }

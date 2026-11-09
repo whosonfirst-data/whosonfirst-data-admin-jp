@@ -89,7 +89,7 @@
         "wk:page":"Ikata%2C_Ehime"
     },
     "wof:country":"JP",
-    "wof:geomhash":"748ff85704a2afd7a73c2a93536417b8",
+    "wof:geomhash":"7ca4df59fd4ced99dce17ee095cf13e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,5 +115,5 @@
     132.35416999999998,
     33.48833
 ],
-  "geometry": {"coordinates":[132.35416999999998,33.48833],"type":"Point"}
+  "geometry": {"coordinates":[132.35417,33.48833],"type":"Point"}
 }

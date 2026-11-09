@@ -56,7 +56,7 @@
         "wk:page":"Ikeda%2C_Kagawa"
     },
     "wof:country":"JP",
-    "wof:geomhash":"9a77d647bc291ff839640780da9953d4",
+    "wof:geomhash":"9022681435638b26cda4de10cc0a4a40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     134.23521000000002,
     34.47991
 ],
-  "geometry": {"coordinates":[134.23521000000002,34.47991],"type":"Point"}
+  "geometry": {"coordinates":[134.23521,34.47991],"type":"Point"}
 }

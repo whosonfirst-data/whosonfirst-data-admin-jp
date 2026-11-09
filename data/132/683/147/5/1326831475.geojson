@@ -63,7 +63,7 @@
         "wk:page":"Minmaya%2C_Aomori"
     },
     "wof:country":"JP",
-    "wof:geomhash":"875f91b1fcfd4e719e94b0bd501a0415",
+    "wof:geomhash":"c8c90f75ffda2cd954230b22400fb57f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     140.40458999999998,
     41.21503
 ],
-  "geometry": {"coordinates":[140.40458999999998,41.21503],"type":"Point"}
+  "geometry": {"coordinates":[140.40459,41.21503],"type":"Point"}
 }

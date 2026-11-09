@@ -62,7 +62,7 @@
         "wk:page":"Shikamachi%2C_Nagasaki"
     },
     "wof:country":"JP",
-    "wof:geomhash":"b9a757124e2989b345ec435a29201777",
+    "wof:geomhash":"386d0225ffc1ffa0f13a3ffb38bcd0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     129.59031000000002,
     33.26995
 ],
-  "geometry": {"coordinates":[129.59031000000002,33.26995],"type":"Point"}
+  "geometry": {"coordinates":[129.59031,33.26995],"type":"Point"}
 }

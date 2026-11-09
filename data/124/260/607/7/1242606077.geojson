@@ -83,7 +83,7 @@
         "wk:page":"%C5%8Cishida"
     },
     "wof:country":"JP",
-    "wof:geomhash":"1ef5aaabb9598ec83f9d470169bb1301",
+    "wof:geomhash":"347aab068732a003d4e08e19c54601cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,5 +109,5 @@
     140.37403999999998,
     38.59696
 ],
-  "geometry": {"coordinates":[140.37403999999998,38.59696],"type":"Point"}
+  "geometry": {"coordinates":[140.37404,38.59696],"type":"Point"}
 }

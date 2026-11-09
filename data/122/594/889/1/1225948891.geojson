@@ -57,7 +57,7 @@
         "wk:page":"Kuma%2C_Ehime"
     },
     "wof:country":"JP",
-    "wof:geomhash":"5f1870876382a96b315b96d8e58bc09f",
+    "wof:geomhash":"966e73aba2cb932ac5d01e0749a9f341",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     132.90233999999998,
     33.6566
 ],
-  "geometry": {"coordinates":[132.90233999999998,33.6566],"type":"Point"}
+  "geometry": {"coordinates":[132.90234,33.6566],"type":"Point"}
 }

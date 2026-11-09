@@ -136,7 +136,7 @@
         "wk:page":"Komagane%2C_Nagano"
     },
     "wof:country":"JP",
-    "wof:geomhash":"e8c93a43e34405731a2f3bae6f9579c0",
+    "wof:geomhash":"4c439fd367bc1a85587902fc6222a9ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,5 +162,5 @@
     137.93745,
     35.71657000000001
 ],
-  "geometry": {"coordinates":[137.93745000000001,35.71657000000001],"type":"Point"}
+  "geometry": {"coordinates":[137.93745,35.71657],"type":"Point"}
 }

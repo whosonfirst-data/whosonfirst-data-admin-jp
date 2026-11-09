@@ -50,7 +50,7 @@
         "wk:page":"Fujino%2C_Kanagawa"
     },
     "wof:country":"JP",
-    "wof:geomhash":"198b4db3cdb5700a065e544e9bf4b6e1",
+    "wof:geomhash":"645d431742674d3965ebc741e520bd18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     139.14306000000002,
     35.60639000000001
 ],
-  "geometry": {"coordinates":[139.14306000000002,35.60639000000001],"type":"Point"}
+  "geometry": {"coordinates":[139.14306,35.60639],"type":"Point"}
 }

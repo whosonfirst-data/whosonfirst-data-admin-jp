@@ -133,7 +133,7 @@
         "wk:page":"Kurihara%2C_Miyagi"
     },
     "wof:country":"JP",
-    "wof:geomhash":"f743a932ada870d42736c94dab47df1e",
+    "wof:geomhash":"93e8f1b896ed3f40b69ab4f9b0c42753",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,5 +159,5 @@
     141.0,
     38.75
 ],
-  "geometry": {"coordinates":[141.0,38.75],"type":"Point"}
+  "geometry": {"coordinates":[141,38.75],"type":"Point"}
 }

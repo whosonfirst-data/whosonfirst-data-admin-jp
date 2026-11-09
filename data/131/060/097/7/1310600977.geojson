@@ -53,7 +53,7 @@
         "wk:page":"Wada%2C_Chiba"
     },
     "wof:country":"JP",
-    "wof:geomhash":"2c8672c5ba47258ae8b357c51583b1bb",
+    "wof:geomhash":"21b3d884d8d7f6f077fa28da323fc07e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     140.01623999999998,
     35.03709
 ],
-  "geometry": {"coordinates":[140.01623999999998,35.03709],"type":"Point"}
+  "geometry": {"coordinates":[140.01624,35.03709],"type":"Point"}
 }

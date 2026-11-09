@@ -58,7 +58,7 @@
         "wk:page":"Hagushi"
     },
     "wof:country":"JP",
-    "wof:geomhash":"40e7bfa89eb6546ac3a4d2c5fc0d2034",
+    "wof:geomhash":"988415cb7e3d9959899b18a359fcf8c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     127.74258,
     26.36779000000001
 ],
-  "geometry": {"coordinates":[127.74258,26.36779000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.74258,26.36779],"type":"Point"}
 }

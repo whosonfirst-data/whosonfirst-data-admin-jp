@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"quattroshapes_pg",
     "src:geom":"quattroshapes_pg",
-    "wof:geomhash":"690679b74c7c16901b4c96f6c904dd8f",
+    "wof:geomhash":"f42fcd4b39e9e414933a530df8324f30",
     "wof:id":85935097,
     "wof:repo":"whosonfirst-data-admin-jp"
 },
@@ -14,5 +14,5 @@
     139.3545,
     34.7829575
 ],
-  "geometry": {"coordinates":[139.3545,34.7829575],"type":"Point"}
+  "geometry": {"coordinates":[139.3545,34.782958],"type":"Point"}
 }

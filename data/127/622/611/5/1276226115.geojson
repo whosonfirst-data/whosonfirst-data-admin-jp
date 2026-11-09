@@ -49,7 +49,7 @@
         "wk:page":"Futami%2C_Ehime"
     },
     "wof:country":"JP",
-    "wof:geomhash":"3368a731f478561deb5de30d83566499",
+    "wof:geomhash":"3307b5e2525f7cd756728ba1ce078f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     132.63443999999998,
     33.68444
 ],
-  "geometry": {"coordinates":[132.63443999999998,33.68444],"type":"Point"}
+  "geometry": {"coordinates":[132.63444,33.68444],"type":"Point"}
 }

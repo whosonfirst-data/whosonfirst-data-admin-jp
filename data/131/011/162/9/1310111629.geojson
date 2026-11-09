@@ -88,7 +88,7 @@
         "wk:page":"Ch%C5%8Dnan"
     },
     "wof:country":"JP",
-    "wof:geomhash":"ae91cb35c9bed7cbd770751f434c99f9",
+    "wof:geomhash":"1e4325c7265d2a12f764b5fa348c55eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,5 +114,5 @@
     140.23503,
     35.39700999999999
 ],
-  "geometry": {"coordinates":[140.23502999999999,35.39700999999999],"type":"Point"}
+  "geometry": {"coordinates":[140.23503,35.39701],"type":"Point"}
 }

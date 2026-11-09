@@ -55,7 +55,7 @@
         "wk:page":"Sadowara%2C_Miyazaki"
     },
     "wof:country":"JP",
-    "wof:geomhash":"2e4f2b48aa0509e759cd5d4255ac026b",
+    "wof:geomhash":"3732cc7ab21d1c652a6be3a205ed9466",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     131.43211000000002,
     32.03633
 ],
-  "geometry": {"coordinates":[131.43211000000002,32.03633],"type":"Point"}
+  "geometry": {"coordinates":[131.43211,32.03633],"type":"Point"}
 }

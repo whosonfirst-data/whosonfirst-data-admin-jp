@@ -75,7 +75,7 @@
         "wk:page":"Kichij%C5%8Dji"
     },
     "wof:country":"JP",
-    "wof:geomhash":"7c009b2b27c155413930d0a84fbd42d5",
+    "wof:geomhash":"395550a8af85d6eba01fa933b1e03f59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     139.57693999999998,
     35.70558
 ],
-  "geometry": {"coordinates":[139.57693999999998,35.70558],"type":"Point"}
+  "geometry": {"coordinates":[139.57694,35.70558],"type":"Point"}
 }

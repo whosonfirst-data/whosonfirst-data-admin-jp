@@ -50,7 +50,7 @@
         "wk:page":"Kikuma%2C_Ehime"
     },
     "wof:country":"JP",
-    "wof:geomhash":"239f2b4013805a896224d2ce263dd756",
+    "wof:geomhash":"21e6294df8a6553e67fb9645c7ea39d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     132.84118999999998,
     34.03566
 ],
-  "geometry": {"coordinates":[132.84118999999998,34.03566],"type":"Point"}
+  "geometry": {"coordinates":[132.84119,34.03566],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Miyakubo%2C_Ehime"
     },
     "wof:country":"JP",
-    "wof:geomhash":"ee758f95992916eeeeb20185a8154e4d",
+    "wof:geomhash":"c33d51eaeef4af91ab53b3ae34ef5598",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     133.075,
     34.17610999999999
 ],
-  "geometry": {"coordinates":[133.07499999999999,34.17610999999999],"type":"Point"}
+  "geometry": {"coordinates":[133.075,34.17611],"type":"Point"}
 }

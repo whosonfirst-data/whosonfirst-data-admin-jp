@@ -45,7 +45,7 @@
         "gn:id":9818162
     },
     "wof:country":"JP",
-    "wof:geomhash":"ef65ff0f17e566678d3ff044fce9f0cd",
+    "wof:geomhash":"5fe8312d7649135b7867fd27ba6f1c54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     140.39056000000002,
     40.2036
 ],
-  "geometry": {"coordinates":[140.39056000000002,40.2036],"type":"Point"}
+  "geometry": {"coordinates":[140.39056,40.2036],"type":"Point"}
 }
